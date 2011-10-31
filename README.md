@@ -1,0 +1,1 @@
+Android Status Bar Notifications Plugin for Phonegap
