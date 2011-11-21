@@ -1,14 +1,12 @@
-Android Status Bar Notifications Plugin for Phonegap
+# Android Status Bar Notifications Plugin for Phonegap
 
+## Compilation:
 
-Compilation:
-
-javac -d . -classpath <path_to_your>/android.jar:<path_to_your>phonegap.jar com/mariuszlusiak/phonegap/plugin/ToastPlugin.java
+javac -d . -classpath <path_to_your>/android.jar:<path_to_your>phonegap.jar com/mariuszlusiak/phonegap/plugin/StatusBarNotificationPlugin.java
 
 jar -cvf phonegap-status-bar-notification.jar com/mariuszlusiak/phonegap/plugin/*.class
 
-
-Installation:
+## Installation:
 
 copy the jar to the project
 
