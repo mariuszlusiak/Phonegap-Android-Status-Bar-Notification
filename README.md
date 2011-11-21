@@ -13,4 +13,8 @@ Installation:
 copy the jar to the project
 
 copy the js files to the project
-<script type="text/javascript" charset="utf-8" src="phonegap-toast.js"></script>
+<script type="text/javascript" charset="utf-8" src="phonegap-status-bar-notification.js"></script>
+
+<plugins>
+<plugin name="StatusBarNotificationPlugin" value="com.mariuszlusiak.phonegap.plugin.StatusBarNotificationPlugin" />
+</plugins>
