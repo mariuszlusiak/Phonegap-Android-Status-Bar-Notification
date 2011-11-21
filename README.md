@@ -21,3 +21,7 @@ copy the js files to the project
 		<plugins>
 		<plugin name="StatusBarNotificationPlugin" value="com.mariuszlusiak.phonegap.plugin.StatusBarNotificationPlugin" />
 		</plugins>
+
+## References:
+
+Similar plugin available here: https://github.com/saileshmittal/phonegap-system-notification-plugin
